@@ -1,9 +1,9 @@
 {
-  "name": "ashora",
+  "name": "monimalist-e-commerce",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage':"https://ashtogarh.github.io/ashora",
+  "homepage':"https://ashtogarh.github.io/minimalist-e-commerce",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
